@@ -1,5 +1,6 @@
-<!-- ***Fin des pages*** -->   
+<!-- ***Fin des pages*** --> 
+
 </section>
-    
+<!--Fermeture html-->    
 </body>
 </html>
